@@ -1,4 +1,4 @@
-## NAME: MALENI M
+![image](https://github.com/user-attachments/assets/dbd1d946-fadb-4030-bf0b-5c01a3ce644b)## NAME: MALENI M
 ## REG NO: 212223040110
 
 # Monitoring soil moisture value in Thing speak cloud
@@ -143,7 +143,9 @@ void loop()
 
 
 # OUTPUT:
-![Uploading image.png…]()
+![soilmoit piot](https://github.com/user-attachments/assets/bb0d995d-d7ae-4957-a279-bdbf2bad06ae)
+
+
 
 
 # RESULT:
