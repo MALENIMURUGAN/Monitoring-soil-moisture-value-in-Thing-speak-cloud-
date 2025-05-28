@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbd1d946-fadb-4030-bf0b-5c01a3ce644b)## NAME: MALENI M
+## NAME: MALENI M
 ## REG NO: 212223040110
 
 # Monitoring soil moisture value in Thing speak cloud
